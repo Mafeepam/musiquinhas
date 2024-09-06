@@ -4,11 +4,9 @@
 
 Decidi fazer o Musiquinhas como projeto após assisitr a imersão da Alura com o Google Gemini como um teste do aprendizado que obtive com as 5 aulas que lançaram na plataforma.
 
-Eu tentei usar dos conhecimentos passados para criar um lugar onde as pessoas possam pesquisar sobre o que elas estão sentindo e com isso gerar algumas músicas que tem dentro da aplicação dados.js ao pesquisar por algumas palavras que tenham nas descrições das músicas ou nas tags.
-
+Musiquinhas é um lugar onde as pessoas possam pesquisar sobre o que elas estão sentindo e com isso, ao clicar em "pesquisar", serão mostradas algumas músicas registradas na aplicação dados.js, tirando delas algumas palavras chaves que estão nas descrições das músicas ou em suas tags.
 Ou até mesmo sortear alguma música aleatória no "Estou com sorte".
-
-Musiquinhas não tem muitas músicas, mas, as que tem levam ao clicar no nome do artista para a página dele no spotify e no botão "escute" para a música, também no spotify.
+Musiquinhas não possui muitas músicas, mas, as que tem, o usuário será capaz de clicar no cantor da mesma e será redirecionado para a sua página no spotify, e caso queira escutá-la, ao clicar no botão "Escute", ele será redirecionado para a página específica da música, também no spotify.
 
 ## Teste em:
 
