@@ -10,3 +10,7 @@ Ou até mesmo sortear alguma música aleatória no "Estou com sorte".
 
 Musiquinhas não tem muitas músicas, mas, as que tem levam ao clicar no nome do artista para a página dele no spotify e no botão "escute" para a música, também no spotify.
 
+## Teste em:
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)([https://www.linkedin.com/in/mafepqnunes/](https://musiquinhas.vercel.app))
+
