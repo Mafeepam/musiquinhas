@@ -11,13 +11,15 @@
       <h1> Músicas que eu Recomendo </h1>
     </header>
     <main>
-        <section>
-        <input type="text" placeholder="Busque alguma música ou seus sentimentos" id="campo-pesquisa">
-        <button onclick="pesquisar()">Pesquisar</button>
-    </section>
-    <section class="resultados-pesquisa" id= "resultados-pesquisa">
-        
-    </section>
+        <section class="caixa-pesquisa">
+            <input type="text" placeholder="Busque alguma música ou seus sentimentos" id="campo-pesquisa">
+            <div class="botoes-pesquisa">
+                <button onclick="pesquisar()">Pesquisar</button>
+                <button onclick="sugerirAleatorio()">Estou com sorte</button>
+            </div>
+        </section>
+        <section class="resultados-pesquisa" id="resultados-pesquisa">
+        </section>
     </main>
     <footer>
         <p>2024 - Maria Fernanda Prandi. Todos direitos reservados</p>
